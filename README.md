@@ -3,7 +3,7 @@
 Algumas notas rápidas enquanto estou configurando isso:
 
 - 👨‍💻 Desenvolvedor backend, atualmente trabalho como fullstack e sou entusiasta de tecnologia.
-- 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">Linkedin</a> <a href="https://x.com/GuilhermeSS009" > Twitter </a>
+- 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">Linkedin</a>, <a href="https://x.com/GuilhermeSS009" > Twitter </a>.
 
 🔨 Ferramentas que uso no trabalho:
 
