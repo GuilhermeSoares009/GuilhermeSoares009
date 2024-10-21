@@ -7,7 +7,7 @@ Algumas notas rápidas enquanto estou configurando isso:
 
 🔨 Ferramentas que uso no trabalho:
 
-- Backend: Php 5.6, Php 7, Php 8, Laravel, CodeIngiter, Lumen, Symphony, JavaScript, Api's Restfull, Docker e
+- Backend: Php 5.6, Php 7, Php 8, Laravel, CodeIngiter, Lumen, Symphony, JavaScript, Api's Restfull e Docker.
 - Frontend: HTML5, CSS3, Javascript, Jquery, Vue.js, React.Js, BootStrap, Tailwind Css e Wordpress.
 - Database: MySql, MongoDb e Firebase.
 - Servers: Apache
