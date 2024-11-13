@@ -9,9 +9,9 @@ Algumas notas rápidas enquanto estou configurando isso:
 
 - Backend: Php 5.6, Php 7, Php 8, Laravel, CodeIngiter, Lumen, Symphony, JavaScript, Api's Restfull e Docker.
 - Frontend: HTML5, CSS3, Javascript, Jquery, Vue.js, React.Js, BootStrap, Tailwind Css e Wordpress.
-- Database: MySql, MongoDb e Firebase.
+- Database: MySql, MongoDb, SQLite, PostgreSQL e Firebase.
 - Servers: Apache
-- Cloud: Estudando sobre Devops
+- Cloud: Estudando sobre redes, infra e Devops.
 - Controle de Versionamento: Git
 - Prototyping: Figma
 - IDE: VS Code e PhpStorm
