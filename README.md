@@ -7,15 +7,14 @@ Algumas notas rápidas enquanto estou configurando isso:
 
 🔨 Ferramentas que uso no trabalho:
 
-- Backend: Php 5.6, Php 7, Php 8, Laravel, CodeIngiter, Lumen, Symphony, JavaScript, Api's Restfull e Docker.
-- Frontend: HTML5, CSS3, Javascript, Jquery, Vue.js, React.Js, BootStrap, Tailwind Css e Wordpress.
+- Backend: Java, Laravel, JavaScript, Api's Restfull e Docker.
+- Frontend: Vue.js, React.Js, BootStrap e Tailwind Css.
 - Database: MySql, MongoDb, SQLite, PostgreSQL e Firebase.
 - Servers: Apache
-- Cloud: Estudando sobre redes, infra e Devops.
+- Cloud: Estudando sobre SRE.
 - Controle de Versionamento: Git
-- Prototyping: Figma
-- IDE: VS Code e PhpStorm
-- Sistema Operacional: Windows e migrando para o Linux (Fedora ou Ubuntu)
+- IDE: VS Code 
+- Sistema Operacional: Fedora + GNome
 
 🤵 Soft Skills:
 
