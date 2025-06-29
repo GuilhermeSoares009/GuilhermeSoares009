@@ -5,16 +5,18 @@ Algumas notas rápidas enquanto estou configurando isso:
 - 👨‍💻 Desenvolvedor backend, atualmente trabalho como Back-End, já atuei como Full-Stack e hoje em dia estudo também sobre os conteúdos de sre/devops.
 - 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">Linkedin</a>, <a href="https://x.com/GuilhermeSS009" > X(Twitter) </a>.
 
-🔨 Ferramentas que uso no trabalho:
-
-- Backend: Java, Spring, Laravel, JavaScript e Docker.
-- Frontend: Vue.js, React.Js, BootStrap e Tailwind Css.
-- Database: MySql, MongoDb, SQLite, PostgreSQL e Firebase.
-- Servers: Apache
-- Cloud: Estudando sobre SRE.
-- Controle de Versionamento: Git
-- IDE: Intellij / VS Code 
-- Sistema Operacional: FEDORA + GNOME
+🔨 **Ferramentas que uso no trabalho:**
+- **Backend:** PHP, Laravel, CodeIgniter, Java, Spring Boot, JavaScript, Docker e Redis.
+- **Frontend:** Vue.js, React.js, HTML, CSS, jQuery, Bootstrap e Tailwind CSS.
+- **Database:** MySQL, PostgreSQL, SQLite, MongoDB e Firebase.
+- **Servers:** Apache, Nginx
+- **Cloud:** Estudando sobre SRE.
+- **Controle de Versionamento:** Git, GitHub, GitLab e BitBucket
+- **Testes:** PHPUnit e PEST
+- **Gerenciamento de Projetos:** JIRA, YouTrack e Scrum
+- **IDE:** IntelliJ / VS Code
+- **Sistema Operacional:** FEDORA + GNOME
+- **Outros:** WordPress, ECommerce, Clean Code, MVC e REST APIs
 
 🤵 Soft Skills:
 
