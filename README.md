@@ -23,3 +23,5 @@ Algumas notas rápidas enquanto estou configurando isso:
 - Trabalho em equipe
 - Boa comunicação. 
 - Aprendizado constante.
+- Liderança de Equipes
+- Contato com o Cliente
