@@ -25,3 +25,7 @@ Some quick notes while I'm setting things up:
 - Continuous learning
 - Team leadership
 - Client communication
+
+🌍 **Languages:**
+- 🗣️ Native Portuguese speaker
+- 📘 Currently learning English
