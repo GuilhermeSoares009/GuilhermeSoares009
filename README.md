@@ -2,7 +2,7 @@
 
 Algumas notas rápidas enquanto estou configurando isso:
 
-- 👨‍💻 Desenvolvedor backend, atualmente trabalho como Back-End/Full-Stack e hoje em dia estudo também sobre os conteúdos de sre/devops.
+- 👨‍💻 Desenvolvedor backend e hoje em dia estudo também sobre os conteúdos de sre/devops.
 - 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">Linkedin</a>, <a href="https://x.com/GuilhermeSS009" > X(Twitter) </a>.
 
 🔨 **Ferramentas que uso no trabalho:**
