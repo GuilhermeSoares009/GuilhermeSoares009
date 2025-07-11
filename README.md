@@ -1,27 +1,27 @@
-### Olá, pessoal! 👋
+### Hello, everyone! 👋
 
-Algumas notas rápidas enquanto estou configurando isso:
+Some quick notes while I'm setting things up:
 
-- 👨‍💻 Desenvolvedor backend e estudo sobre sre/devops.
-- 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">Linkedin</a>, <a href="https://x.com/GuilhermeSS009" > X(Twitter) </a>.
+- 👨‍💻 Backend developer currently studying SRE/DevOps.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">LinkedIn</a>, <a href="https://x.com/GuilhermeSS009">X (Twitter)</a>.
 
-🔨 **Ferramentas que uso no trabalho:**
-- **Backend:** PHP, Laravel, CodeIgniter, Java, Spring Boot, JavaScript, Docker e Redis.
-- **Frontend:** Vue.js, React.js (com Redux Toolkit), HTML, CSS, jQuery, Bootstrap e Tailwind CSS.
-- **Database:** MySQL, PostgreSQL, SQLite, MongoDB e Firebase.
+🔨 **Tools I use at work:**
+- **Backend:** PHP, Laravel, CodeIgniter, Java, Spring Boot, JavaScript, Docker, and Redis.
+- **Frontend:** Vue.js, React.js (with Redux Toolkit), HTML, CSS, jQuery, Bootstrap, and Tailwind CSS.
+- **Database:** MySQL, PostgreSQL, SQLite, MongoDB, and Firebase.
 - **Servers:** Apache, Nginx
-- **Cloud:** Estudando sobre SRE.
-- **Controle de Versionamento:** Git, GitHub, GitLab e BitBucket
-- **Testes:** PHPUnit, PEST, Jest e React Testing Library
-- **Gerenciamento de Projetos:** JIRA, YouTrack e Scrum
+- **Cloud:** Currently learning about SRE.
+- **Version Control:** Git, GitHub, GitLab, and BitBucket
+- **Testing:** PHPUnit, PEST, Jest, and React Testing Library
+- **Project Management:** JIRA, YouTrack, and Scrum
 - **IDE:** IntelliJ / VS Code
-- **Sistema Operacional:** FEDORA + GNOME
-- **Outros:** WordPress, ECommerce, Clean Code, MVC, REST APIs, Docker Composer
+- **Operating System:** FEDORA + GNOME
+- **Others:** WordPress, ECommerce, Clean Code, MVC, REST APIs, Docker Compose
 
-🤵 Soft Skills:
-- Solução de problemas.
-- Trabalho em equipe
-- Boa comunicação. 
-- Aprendizado constante.
-- Liderança de Equipes
-- Contato com o Cliente
+🤵 **Soft Skills:**
+- Problem-solving
+- Teamwork
+- Good communication
+- Continuous learning
+- Team leadership
+- Client communication
