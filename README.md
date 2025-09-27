@@ -3,7 +3,7 @@
 Some quick notes while I'm setting things up:
 
 - 👨‍💻 Backend developer currently studying SRE/DevOps.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">LinkedIn</a>, <a href="https://dev.to/guilhermesoares009">Artigos - Dev.to (Twitter)</a>.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">LinkedIn</a>.
 
 🔨 **Tools I use at work:**
 - APIs: REST
