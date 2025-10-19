@@ -7,10 +7,3 @@ Here are the technologies I have been working with:
 
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,aws,php,laravel,java,spring&theme=dark&perline=6)](https://skillicons.dev)
 
-<!---
-In addition, I have experience and knowledge in other modern tools and technologies, and I'm always seeking to learn more to improve my craft.
---->
-
-<!--START_SECTION:waka-->
-
-```txt
