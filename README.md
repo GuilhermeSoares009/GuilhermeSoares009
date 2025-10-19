@@ -5,5 +5,4 @@ You can get a glimpse of my career path through my [LinkedIn profile](https://ww
 
 Here are the technologies I have been working with:
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,aws,php,laravel,java,spring&theme=dark&perline=6)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,aws,php,laravel,java,spring,docker,redis,github,gitlab,vscode,linux,bash&theme=dark&perline=6)](https://skillicons.dev)
