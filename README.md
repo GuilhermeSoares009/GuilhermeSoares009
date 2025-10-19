@@ -1,32 +1,16 @@
-### Hello, everyone! 👋
+I'm Guilherme, a Software Engineer passionate about building robust and scalable backend systems.  
+My main goal is to deepen my expertise in backend technologies and contribute to impactful projects.
 
-Some quick notes while I'm setting things up:
+You can get a glimpse of my career path through my [LinkedIn profile](https://www.linkedin.com/in/guilherme-soares-0842a9183/)
 
-- 👨‍💻 Backend developer currently studying SRE/DevOps.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/guilherme-soares-0842a9183/">LinkedIn</a>.
+Here are the technologies I have been working with:
 
-🔨 **Tools I use at work:**
-- APIs: REST
-- Programming Languages: Java, PHP, JavaScript
-- Frameworks: Spring Boot, Spring Data, Laravel, Vue.js, React.js, jQuery
-- Tests: JUnit, PHPUnit, Pest
-- Code Style: SOLID, Clean Code, Design Patterns
-- Architecture: MVC, Microservices, Layered Architecture
-- Relational Database: PostgreSQL, MySQL, SQLite
-- Non-relational Database: MongoDB, Redis
-- Containers: Docker
-- Version Control: Git, Github, Gitlab, BitBucket
-- ​​Build Tools: Maven
-- Operating Systems: Linux (Fedora + GNOME), Windows
-- DevOps/Infrastructure: CI/CD, SRE practices
-- Cloud: AWS (in training)
-- Management: Jira, Youtrack, Google Meet, Discord, agile methodologies
-- Education: Bachelor's degree in Computer Science
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,aws,php,laravel,java,spring&theme=dark&perline=6)](https://skillicons.dev)
 
-🤵 **Soft Skills:**
-- Problem-solving
-- Teamwork
-- Good communication
-- Continuous learning
-- Team leadership
-- Client communication
+<!---
+In addition, I have experience and knowledge in other modern tools and technologies, and I'm always seeking to learn more to improve my craft.
+--->
+
+<!--START_SECTION:waka-->
+
+```txt
