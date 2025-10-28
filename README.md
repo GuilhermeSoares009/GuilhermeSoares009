@@ -14,8 +14,16 @@ Here are the technologies I have been working with:
   <img src="https://skillicons.dev/icons?i=php&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="40" />
+</div>
+
+### 🗄️ Databases
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" />
 </div>
 
@@ -24,11 +32,27 @@ Here are the technologies I have been working with:
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40" />
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="40" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="40" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" />
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="40" />
+</div>
+
+### 🖥️ Front-End
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="40" />
+</div>
+
+### 🛠️ Tools & Testing
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" />
+  <img src="https://skillicons.dev/icons?i=jest&theme=dark" width="40" />
 </div>
