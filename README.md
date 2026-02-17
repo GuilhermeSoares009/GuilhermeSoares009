@@ -4,7 +4,7 @@
 
 ### 🏗️ Focus
 - Software Engineer & Cloud Computing & Software Architect
-- Passionate about Software Architecture, System Design and DevOps practices.
+- Software Architecture, System Design and DevOps practices.
 - Machine Learning & MLOps
 - AI-Integrated Architectures & LLM & Generative AI
 - IAC & AWS & Kubernete
