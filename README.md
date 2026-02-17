@@ -6,6 +6,8 @@
 - Software Engineer & Cloud Computing & Software Architect
 - Passionate about Software Architecture, System Design and DevOps practices.
 - Machine Learning & MLOps
+- AI-Integrated Architectures & LLM & Generative AI
+- Cloud Native Development & AWS & Kubernete
 
 ### 🛠️ Interests
 - Data Engineering
@@ -17,7 +19,6 @@
 - Infrastructure as Code & Terraform & Ansible
 - DevSecOps & Security Pipelines
 - Event-Driven Architecture & Kafka & Serverless
-- LegalTech & Compliance Automation
 
 [Connect on LinkedIn](https://www.linkedin.com/in/guilherme-soares-0842a9183/)
 
