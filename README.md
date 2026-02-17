@@ -1,6 +1,6 @@
 # Guilherme Soares
 
-### Software Engineer | Cloud Computing 
+### Software Engineer | Cloud Computing | AI
 
 ### 🏗️ Professional Focus
 - Software Engineer & Cloud Computing & Software Architect
