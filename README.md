@@ -7,7 +7,7 @@
 - Passionate about Software Architecture, System Design and DevOps practices.
 - Machine Learning & MLOps
 - AI-Integrated Architectures & LLM & Generative AI
-- Cloud Native Development & AWS & Kubernete
+- IAC & AWS & Kubernete
 
 ### 🛠️ Interests
 - Data Engineering
