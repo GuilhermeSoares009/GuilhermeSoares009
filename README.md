@@ -1,6 +1,6 @@
 # Guilherme Soares
 
-### Software Engineer | Backend & Infrastructure
+### Software Engineer | Cloud Computing 
 
 I engineer high-performance distributed systems and automate cloud infrastructure. My work involves architecting resilient services using **Java, Go, and AWS**, while leveraging **AI-native** workflows and **Data Engineering** pipelines. 
 
