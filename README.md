@@ -7,11 +7,17 @@
 - Passionate about Software Architecture, System Design and DevOps practices.
 - Machine Learning & MLOps
 
-### 🚀 Interests
+### 🛠️ Interests
 - Data Engineering
 - AI-Integrated Architectures & LLM & Generative AI
 - System Design & Project Architecture & Design Patterns
 - FinOps & SRE
+- Cloud Native Development & AWS & Kubernetes
+- Backend Scalability & GoLang & Java Ecosystem
+- Infrastructure as Code & Terraform & Ansible
+- DevSecOps & Security Pipelines
+- Event-Driven Architecture & Kafka & Serverless
+- LegalTech & Compliance Automation
 
 [Connect on LinkedIn](https://www.linkedin.com/in/guilherme-soares-0842a9183/)
 
