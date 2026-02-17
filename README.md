@@ -2,9 +2,16 @@
 
 ### Software Engineer | Cloud Computing 
 
-I engineer high-performance distributed systems and automate cloud infrastructure. My work involves architecting resilient services using **Java, Go, and AWS**, while leveraging **AI-native** workflows and **Data Engineering** pipelines. 
+### 🏗️ Professional Focus
+- Software Engineer & Cloud Computing & Software Architect
+- Passionate about Software Architecture, System Design and DevOps practices.
+- Machine Learning & MLOps
 
-With expertise spanning **Node.js, Python, and Rust**, and a solid foundation in **PHP and Laravel**, I bridge the gap between reliable web architecture and complex, modern infrastructure challenges.
+### 🚀 Interests
+- Data Engineering
+- AI-Integrated Architectures & LLM & Generative AI
+- System Design & Project Architecture & Design Patterns
+- FinOps & SRE
 
 [Connect on LinkedIn](https://www.linkedin.com/in/guilherme-soares-0842a9183/)
 
