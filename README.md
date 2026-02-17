@@ -2,7 +2,7 @@
 
 ### Software Engineer | Cloud Computing | AI
 
-### 🏗️ Professional Focus
+### 🏗️ Focus
 - Software Engineer & Cloud Computing & Software Architect
 - Passionate about Software Architecture, System Design and DevOps practices.
 - Machine Learning & MLOps
