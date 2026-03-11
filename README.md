@@ -47,7 +47,3 @@ Orchestrating LLMs, streaming pipelines, and ensuring system reliability with de
 
 ### 🛠️ Code Quality & Web Ecosystem
 Maintaining high standards with automated analysis and legacy system modernization.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sentry,php,laravel,react,ts,mysql,git,bash&theme=dark" />
-</p>
