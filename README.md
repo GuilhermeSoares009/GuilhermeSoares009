@@ -13,7 +13,7 @@
 - Data Engineering
 - AI-Integrated Architectures & LLM & Generative AI
 - System Design & Project Architecture & Design Patterns
-- FinOps & SRE
+- DevOps & SRE
 - Cloud Native Development & AWS & Kubernetes
 - Backend Scalability & GoLang & Java Ecosystem
 - Infrastructure as Code & Terraform & Ansible
