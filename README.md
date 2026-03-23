@@ -25,10 +25,10 @@
 ---
 
 ### 🚀 Core Backend & Systems
-Designing scalable microservices, high-concurrency solutions, and secure APIs.
+Designing scalable APIs, microservices and high-performance backend systems.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,rust,nodejs,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,go,postgres,redis,php,laravel,symfony&theme=dark" />
 </p>
 
 ### ☁️ Cloud, GitOps & Platform Engineering
