@@ -1,6 +1,6 @@
 # Guilherme Soares
 
-### Senior Software Engineer | Backend & Product Engineer | Go (Golang), Node.js, TypeScript, Kafka, REST APIs, Microservices, Applied AI (LLM/RAG), AWS/GCP
+### Senior Software Engineer | Backend & Product Engineer
 
 ### Focus
 - Backend engineering with Go, Node.js and TypeScript
