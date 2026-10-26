@@ -1,6 +1,6 @@
 # Guilherme Soares
 
-### Senior Software Engineer | Backend & Product Engineer
+### Software Engineer
 
 ### Focus
 - Backend engineering with Go, Node.js and TypeScript
